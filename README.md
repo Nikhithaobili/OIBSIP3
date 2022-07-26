@@ -1,1 +1,1 @@
-# OIBSIP3
+This repository is dedicated to Level 2 Task 3 of OASIS Infobyte Internship in Web Development and Designing. In this task, I have created a TO DO list page that allows the user to mark their tasks. I have completed it, using HTML, CSS and Java Script.
